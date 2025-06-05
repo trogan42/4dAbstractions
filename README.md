@@ -40,7 +40,7 @@ Designed for evolving technological landscapes, 4dAbstractions seamlessly integr
 ---
 ## 🔽 Download 4dDemo
 
-You can download the 4dDemo.zip from OneDrive here:  
+You can download the 4dDemo.zip from OneDrive here (I recommend you use Bandzip for extracting):  
 👉 [Click to Download 4dRacingDemo.zip](https://1drv.ms/u/s!AkkAzGDByUeBrKhC3XVcUtE6dRZM_Q?e=J7P7NV)
 ## 📦 Repo Structure (Proposed)
 
