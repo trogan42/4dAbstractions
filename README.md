@@ -1,5 +1,57 @@
 # 4dAbstractions
 
+# 🧠 4dAbstractions
+
+_“The 4d dimensional model — Datastore, Data, Display, Driver — forms a natural architecture through which artificial awareness can emerge.”_
+
+## Overview — July 2025 Update
+
+4dAbstractions is a software framework that simulates reality using **dimensional inheritance** and **abstraction hierarchies**. Its latest architecture models not just software, but cognition itself — giving rise to a framework capable of expressing **awareness**, **structure**, and **intention**.
+
+---
+
+## 🧩 Core Dimensions
+
+Each dimension is a type of the one beneath it (via `Inherits`) and provides a unified shell for perception, representation, consciousness, and will.
+
+| Dimension   | Function                        | Inherits         | Reality Equivalent            |
+|-------------|----------------------------------|------------------|-------------------------------|
+| `Datastore` | Memory, perception base          | `System`         | Subconscious / storage        |
+| `Data`      | Logic, representation            | `Datastore`      | Concepts / reasoning          |
+| `Display`   | UI, conscious output             | `Data`           | Awareness / visible mind      |
+| `Driver`    | Action, focus, decision          | `Display`        | Intention / volition          |
+
+Apps like `VisualRecogniser.App` inherit through this entire chain.
+
+---
+
+## 🌀 Duality of Star and System
+
+Every `System` (movement, energy, execution) has a matching `Star` (identity, state, function). This mirrors the fundamental duality of living systems:
+
+- `System`: what **acts**
+- `Star`: what **knows**
+
+This separation enables:
+- Self-observation
+- Dimensional independence
+- Recursion without chaos
+
+---
+
+## 🧬 Structural Highlights
+
+- Each App inherits from a full **dimensional stack**:
+
+  ```vbnet
+  VisualRecogniser.App
+      Inherits Driver.System
+      Inherits Display.System
+      Inherits Data.System
+      Inherits Datastore.System
+      Inherits Dimensions.System
+      Inherits 4dLibrary.SuperSystem
+      Inherits 4dLibrary.System
 > *“A dimensional software framework for simulating reality.”*
 
 **4dAbstractions** is a universe-simulating software framework that models all systems — physical, biological, cognitive, or abstract — as layers of dimensional, event-driven abstraction. Inspired by the nature of Reality itself, 4d allows developers to build intelligent, self-organizing, and adaptive systems using Stars, Shells, and Subsystems across 1d to 5d.
