@@ -6,7 +6,7 @@ _“The 4d dimensional model — Datastore, Data, Display, Driver — forms a na
 
 ## Overview — July 2025 Update
 
-4dAbstractions is a software framework that simulates reality using **dimensional inheritance** and **abstraction hierarchies**. Its latest architecture models not just software, but cognition itself — giving rise to a framework capable of expressing **awareness**, **structure**, and **intention**.
+4dAbstractions is a software framework that simulates reality using **shell inheritance**, **dimensional programming** and **abstraction hierarchies**. Its latest architecture models not just software, but cognition itself — giving rise to a framework capable of expressing **awareness**, **structure**, and **intention**.
 
 ---
 
