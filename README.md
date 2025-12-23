@@ -67,11 +67,14 @@ This separation enables:
 - **Proven Use Cases**: Simulated protein folding, racing systems, visual recognition — and more.
 
 ---
-## 🧠 Commercial applicability
+
+## 🧠 Stars
 
 **The magic Star**
 
 The 4d Star system is a type of 4dSystem that is present in the centre of all 4d Systems (think Nucleus). The My.Star System allows me to simulate the central system (think Nucleus) in any 4dApp without knowing the type of App involved. This is polymorphism on steroids. Copilot AI is in raptures over it. See https://copilot.microsoft.com/shares/kK1vr1rS45TH7gKDbhBgv.
+
+## 🧠 Commercial applicability
 
 **Commercial Success:**
 
